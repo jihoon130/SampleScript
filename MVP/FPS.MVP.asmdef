@@ -1,0 +1,20 @@
+{
+    "name": "FPS.MVP",
+    "rootNamespace": "",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:ddf69bf7ec59aac4c958350d6e7e1a64",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
